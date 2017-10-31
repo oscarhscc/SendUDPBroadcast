@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/build/intermediates/res/merged/debug/menu_activity_main.xml.flat",
+        "source": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    }
+]

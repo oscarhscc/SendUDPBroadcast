@@ -1,0 +1,4 @@
+#Tue Oct 31 10:07:33 CST 2017
+base.0=/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/oscar/Desktop/工作代码/AsProject/SendUDPBroadcastTest/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
